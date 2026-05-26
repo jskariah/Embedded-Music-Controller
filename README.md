@@ -4,7 +4,7 @@
 
 This project is an embedded music controller built for the TM4C/Tiva C LaunchPad. The system uses a PWM-controlled buzzer, rotary angle sensor, push buttons, and a 4-digit 7-segment display to let the user control tones, tracks, tuning, octave, volume, and playback speed.
 
-The project was developed as an ECE 266 final lab project by Justin Skariah and Trevor Jedrzejas.
+The project was developed as a project by Justin Skariah and Trevor Jedrzejas.
 
 ## Features
 
